@@ -1,0 +1,66 @@
+{
+  "canteen_name": "UBLC Canteen",
+  "categories": {
+    "🍱 Main Dishes & Rice Meals": [
+      {"name": "Fried Pork (with Rice)", "price": 85},
+      {"name": "Bicol Express (with Rice)", "price": 75},
+      {"name": "Fried Chicken (with Rice)", "price": 75},
+      {"name": "Humba (with Rice)", "price": 75},
+      {"name": "Adobong Manok (with Rice)", "price": 75},
+      {"name": "Adobong Baboy (with Rice)", "price": 75},
+      {"name": "Ginisang Gulay with Giniling (with Rice)", "price": 75},
+      {"name": "Chicken Fingers (with Rice)", "price": 65},
+      {"name": "Cordon Bleu (with Rice)", "price": 65},
+      {"name": "Shawarma Rice", "price": 65},
+      {"name": "Shawarma Rice with Iced Tea Combo", "price": 75},
+      {"name": "Longganisa (with Rice)", "price": 55},
+      {"name": "Hotdog (with Rice)", "price": 55}
+    ],
+    "🥢 Noodles": [
+      {"name": "Pancit Canton (Original)", "price": 30},
+      {"name": "Pancit Canton (Calamansi)", "price": 30},
+      {"name": "Pancit Canton (Chili Mansi)", "price": 30},
+      {"name": "Pancit Canton (Sweet and Spicy)", "price": 30},
+      {"name": "Pancit Canton (Extra Hot)", "price": 30},
+      {"name": "Fried Noodles", "price": 35}
+    ],
+    "🥟 Snacks & Dimsum": [
+      {"name": "Kwek Kwek", "price": 20},
+      {"name": "Empanada", "price": 35},
+      {"name": "Chicken Siomai", "price": 45},
+      {"name": "Pork Siomai", "price": 45},
+      {"name": "Sharksfin Siomai", "price": 55}
+    ],
+    "🍩 Sweets & Desserts": [
+      {"name": "Banana Que", "price": 30},
+      {"name": "Karioka", "price": 15},
+      {"name": "Donut", "price": 15},
+      {"name": "Palitaw", "price": 15},
+      {"name": "Brownies", "price": 35},
+      {"name": "Cookies", "price": 35}
+    ],
+    "🍚 Rice Add-ons": [
+      {"name": "1 Cup Rice", "price": 20},
+      {"name": "Half Cup Rice", "price": 10}
+    ],
+    "🥤 Beverages (Cold & Hot)": [
+      {"name": "Bottled Water", "price": 20},
+      {"name": "Coke Mismo", "price": 20},
+      {"name": "Sprite", "price": 25},
+      {"name": "Royal", "price": 25},
+      {"name": "Iced Tea", "price": 25},
+      {"name": "Nutriboost (Chocolate)", "price": 30},
+      {"name": "Nutriboost (Strawberry)", "price": 30},
+      {"name": "Fruit Shake (Watermelon)", "price": 45},
+      {"name": "Fruit Shake (Strawberry)", "price": 45},
+      {"name": "Fruit Shake (Cantaloupe)", "price": 45},
+      {"name": "Fruit Shake (Mango)", "price": 45},
+      {"name": "Fruit Shake (Lemonade)", "price": 45},
+      {"name": "Milo", "price": 15},
+      {"name": "Bearbrand Milk", "price": 20},
+      {"name": "Nescafe Classic", "price": 15},
+      {"name": "Nescafe Creamy White", "price": 15},
+      {"name": "Kopiko Blanca", "price": 15}
+    ]
+  }
+}
